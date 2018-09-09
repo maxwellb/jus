@@ -13,7 +13,7 @@ npm i -g jus && jus
 ## Dependencies
 
 - [async](https://github.com/caolan/async): Higher-order functions and common patterns for asynchronous code
-- [babel-preset-es2015](https://github.com/babel/babel/tree/master/packages): Babel preset for all es2015 plugins.
+- [babel-preset-env](https://github.com/babel/babel/tree/master/packages): Babel preset for all es2015 plugins.
 - [babel-preset-react](https://github.com/babel/babel/tree/master/packages): Babel preset for all React plugins.
 - [babelify](https://github.com/babel/babelify): Babel browserify transform
 - [browser-sync](https://github.com/browsersync/browser-sync): Live CSS Reload &amp; Browser Syncing
